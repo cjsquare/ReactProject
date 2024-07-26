@@ -1,0 +1,30 @@
+{
+  "comments": [
+    {
+      "id": "1",
+      "text": "a comment about post 1",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "another comment about post 1",
+      "postId": "1"
+    }
+  ],
+  "workout": [
+    {
+      "id": "13a0"
+    },
+    {
+      "id": "5096"
+    },
+    {
+      "id": "9822",
+      "day": "mmmm",
+      "reps": "kk",
+      "author": "mjm",
+      "createdAt": "2024-07-11T10:57:59.124Z",
+      "updatedAt": "2024-07-11T10:57:59.124Z"
+    }
+  ]
+}
